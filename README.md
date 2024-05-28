@@ -5,22 +5,22 @@ I also write medium blogs on technical guides/cheatsheets,etc:-
 Here's a taste of what you'll find:
 
 -> Syntax Showdown:A head-to-head comparison of PHP, JavaScript, and Python to help you pick the right tool for the job. 
-https://medium.com/@sandeshtlavshetty/syntax-showdown-php-vs-javascript-vs-python-d7a9fab33991
+[https://medium.com/@sandeshtlavshetty/syntax-showdown-php-vs-javascript-vs-python-d7a9fab33991](https://medium.com/@sandeshtlavshetty/syntax-showdown-php-vs-javascript-vs-python-d7a9fab33991)
 
 
 -> Quick Reference Guides: Cheat sheets for PHP, MySQL, JavaScript, and even Linux commands to keep those essential snippets at your fingertips.
 
  1. PHP 
-https://medium.com/@sandeshtlavshetty/php-syntax-made-easy-a-quick-reference-guide-a7b0803ee6bd
+[https://medium.com/@sandeshtlavshetty/php-syntax-made-easy-a-quick-reference-guide-a7b0803ee6bd](https://medium.com/@sandeshtlavshetty/php-syntax-made-easy-a-quick-reference-guide-a7b0803ee6bd)
 
 2. MySQL 
-https://medium.com/@sandeshtlavshetty/conquering-mysql-a-quick-reference-720e95267c04
+[https://medium.com/@sandeshtlavshetty/conquering-mysql-a-quick-reference-720e95267c04](https://medium.com/@sandeshtlavshetty/conquering-mysql-a-quick-reference-720e95267c04)
 
 3. JS 
-https://medium.com/@sandeshtlavshetty/javascript-syntax-a-quick-reference-guide-c87d8833c834
+[https://medium.com/@sandeshtlavshetty/javascript-syntax-a-quick-reference-guide-c87d8833c834](https://medium.com/@sandeshtlavshetty/javascript-syntax-a-quick-reference-guide-c87d8833c834)
 
 4. Linux 
-https://medium.com/@sandeshtlavshetty/linux-commands-part-1-a5762e05bd2d
+[https://medium.com/@sandeshtlavshetty/linux-commands-part-1-a5762e05bd2d](https://medium.com/@sandeshtlavshetty/linux-commands-part-1-a5762e05bd2d)
 
 
 

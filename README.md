@@ -33,5 +33,5 @@ And there's more to come! I'm building an editorial calendar packed with excitin
 Stay tuned for these upcoming posts and follow along on my Medium journey! Let's conquer the tech world together!
 
 Share Post and re-post 😊
-Made with ♥
+Made with ❤️
 ...... Sandesh lavshetty.

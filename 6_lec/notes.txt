@@ -1,0 +1,27 @@
+initalize a proj. with npm  > npm init -y
+express install > npm i express
+
+setting up parsers for form 
+
+setting up ejs for ejs pages > npm i ejs
+    setup ejs as a view engine
+
+setting up public static files
+
+dynamic routing
+    dynamic routing 
+    how to get data coming from frontend at backend route
+
+
+hum log kai baar kuchh routes dekhte hai unmein sirf ek hi hissa change hota hai
+    /author/harsh
+    /author/harshita
+    /author/harshika
+    /author/harshitakabf
+
+approach:- 
+    sabse phele browser par jao
+     url likhiye apna jo apko chaiye and enter dabaaiye
+     ab us url route ko create kariye
+     res bhejiye kuch bhi 
+     ab usi url ko agar dynamic banaana hai to release karo konsa part dynamic hai aur us part ke age route mein : laga do

@@ -1,0 +1,6 @@
+NPM undersatanding
+installing and uninstalling basics
+understanding node modules
+dependencies - packages and packages ki depenedency
+devdependencies - aise packages jo sirf development mein kam ayenge
+scripts - understanding default scripts PATH and custom scripts

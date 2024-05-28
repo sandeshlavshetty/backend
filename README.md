@@ -1,16 +1,21 @@
 I prepared these notes after watching vedio tutorial for me but now i am making it public ,
 Here will get Notes and Codes according to vedio tutorials parts uploaded.
 
-Amd the pending notes would be uploaded soon
+And the pending notes would be uploaded soon
 
+😊
 
+😊
 
+😊
 
+😊
 
-
-
-
-
+😊
+.
+.
+.
+.
 
 
 

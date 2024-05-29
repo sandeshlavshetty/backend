@@ -1,0 +1,23 @@
+Data Storage:
+    aisa kuchh jaha par hum saare users ki info store kar sakte hai 
+    file - data.txt
+    database 
+Types of DBS - SQL | NoSQL 
+SQL - data ko ek root mein rakhna - tables 
+NoSQL - objects mai data hota hai  - MongoDB
+
+What and Why
+terminologies - collection, documents, schemas, keys, models
+
+
+Database -> collection -> Document
+CODE 
+--------------------------------------------------------
+
+
+
+CODE                        Database
+--------------------------------------------------------
+mongoose.connect -> databse create
+model create  -> collection
+CREATE code  ->  Document

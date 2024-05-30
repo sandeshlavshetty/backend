@@ -1,0 +1,19 @@
+mongodb installation
+mongodb connection
+schema
+model
+crud-create,read,update,delete
+
+mongoose helps to talk btwn nodeserver and MongoDB server
+
+note: for MongoDB through mongoose the code is asynchronus
+
+_id:"3-byte(timestamp)
+e.g."_id": "665736b195f87558b02f477d",
+           { timestamp     }
+
+           
+npm init -y
+npm i express
+npm i mongoose
+
